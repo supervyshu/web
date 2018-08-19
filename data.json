@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"vyshnavi",
+    "role":"mean-stack",
+    "mobile":"+91 7730041305",
+    "email":"vyshnavigarikapati@gmail.com"
+  },
+  "career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "Degree":"B.Tech(Computer Science & Engineering)",
+      "Institute":"Vignan Nirula",
+      "Data":["2016-2018","80%"]
+    },
+    {
+      "Degree":"Intermediate(MPC)",
+      "Institute":"SriChaitanya Junior College",
+      "Data":["2014-2016","93.5%"]
+    },
+    {
+
+        "Degree":"SSC",
+        "Institute":"Srinivasa Public School",
+        "Data":["2013-2014","88%"]
+        }
+    ],
+    "skills":[
+      {
+        "title":"Programming Languages",
+        "content":["python","C","HTML"]
+      },
+      {
+        "title":"Data Bases",
+        "content":["sql","oracle","mysql"]
+      },
+      {
+        "title":"Web Technologies",
+        "content":["XML","javascript","HTML"]
+      },
+      {
+        "title":"Operating Systems",
+        "content":["Windows","Unix","Linux"]
+      }
+    ]
+}
